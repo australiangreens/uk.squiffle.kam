@@ -1,0 +1,9 @@
+{
+  "name": "australian_greens/uk.squiffle.kam",
+  "type": "drupal-module",
+  "description": "AG Repo of repo for CiviCRM Keyboard Accessiable Menus extension",
+  "require": {
+    "composer/installers": "~1.0",
+    "drupal/drupal": "~7"
+  }
+}
